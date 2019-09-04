@@ -1,4 +1,4 @@
 # C_PingSweep
-Basic RSA encryption and decryption algorithm on C for Linux.
+Ping Sweep algorithm on C for Linux. Used to check available machines and ports on the network.
 
 Compile the File for linux and run.
